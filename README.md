@@ -5,7 +5,7 @@ Simple and easy. Hold a button and allow more sliding and fun driving.
 
 Default is left ctrl (or at least in the code it is - mine ended up being left alt for some reason), but you can change it to whatever in keyboard binds in settings.
 
-### 🔰 [Alternative drift script](https://github.com/Coffeelot/cw-drifttoggle) 🔰
+### 🔰 [Alternative drift script](https://github.com/Coffeelot/cw-driftchip) 🔰
 
 ⭐ **Is this realistic?** Nah. \
 ⭐ **Will you add x or y?** Nah. \
