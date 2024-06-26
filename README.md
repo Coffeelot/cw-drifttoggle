@@ -1,9 +1,14 @@
 # Drift while holding a button
-### **See the script in action on [Sundown RP](https://discord.gg/CZNh8kcSGK) 🌆**
-
 Simple and easy. Hold a button and allow more sliding and fun driving.
 
 Default is left ctrl (or at least in the code it is - mine ended up being left alt for some reason), but you can change it to whatever in keyboard binds in settings.
+
+You you want to check for drift mode in other scripts you can use the export `driftIsOn`. Useful if you want to for example add a TCS icon to your HUD
+
+Example use: 
+```lua
+local driftModeIsOn = exports['cw-drifttoggle']:driftIsOn()
+```
 
 ### 🔰 [Alternative drift script](https://github.com/Coffeelot/cw-driftchip) 🔰
 
@@ -25,6 +30,5 @@ Default is left ctrl (or at least in the code it is - mine ended up being left a
 
 [![Join The discord!](https://cdn.discordapp.com/attachments/977876510620909579/1013102122985857064/discordJoin.png)](https://discord.gg/FJY4mtjaKr )
 
-**All our scripts are and will remain free**. If you want to support what we do, you can buy us a coffee here:
 
 [![Buy Us a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoffee.com/cwscriptbois )
