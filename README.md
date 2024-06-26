@@ -16,7 +16,7 @@ Default is left ctrl (or at least in the code it is - mine ended up being left a
 ⭐ **Can you make this for ESX?** No. The script is like 100 lines long. Figure it out yourself ✌ 
 
 # Preview 📽
-[![YOUTUBE VIDEO](http://img.youtube.com/viWghTstvhM08/0.jpg)](https://youtu.beWghTstvhM08)
+[![YOUTUBE VIDEO](http://img.youtube.com/WghTstvhM08/0.jpg)](https://www.youtube.com/watch?v=WghTstvhM08)
 
 # Developed by Coffeelot and Wuggie
 [More scripts by us](https://github.com/stars/Coffeelot/lists/cw-scripts)  👈
